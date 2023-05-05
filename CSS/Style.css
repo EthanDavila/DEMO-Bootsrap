@@ -1,0 +1,17 @@
+.img-banner{
+    background-image: url(../IMG/Banner.png);
+    height: 400px;
+    background-size: cover;
+}
+
+.img-banner h2{
+    padding-top: 180px;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+.img-banner h2 span{
+    display: block;
+}
